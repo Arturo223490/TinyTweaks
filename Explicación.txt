@@ -1,0 +1,31 @@
+@media(min-width: 1100px)
+
+* El texto del nav esta centrado
+* La fuente del primer parafo debajo del H1 esta en color azul
+* La fuente del segundo parrafo debajo del H1 esta en color cafe
+* Aqui la fuente tiene un tamaño de 16px
+* El texto del nav se encuentra centrado
+
+
+@media(min-width: 1000px)
+
+* A las fuentes se les quitan los colores
+* El tamaño de la letra cambia de 16px a una medida de 1.2em
+* El texto del nav deja de centrarse y se le agrego un padding. Se cambia a a puras mayusculas
+
+
+@media(min-width: 900px)
+
+* El tamaño de la fuente se adapta a un 1.8em
+* El fondo cambia al color azul original
+
+
+@media (min-width: 700px)
+
+* La fuente se adapta a un 1.5em
+
+
+@media (min-width: 500px)
+
+* El texto cambia a un tamaño 1.3em
+* El h1 cambia a su blanco original
